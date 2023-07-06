@@ -1,4 +1,9 @@
 
 // Write something
 
-// task2.js task3.js task4.js task5.js
+let myArray = [];
+
+myArray.push("Apple,", "Banana,", "Orange");
+
+console.log(myArray);// output : [ 'Apple,', 'Banana,', 'Orange' ]
+
